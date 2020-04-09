@@ -1,5 +1,5 @@
 html {
-    background: #f2f2f2;
+    background: #e6e6e6;
 }
 
 h1 {
@@ -8,4 +8,29 @@ h1 {
     font-weight: 800;
     text-align: center;
 }
+#img-div{
+    background: white;
+}
+
+#paragraph{
+    padding: 100px, 100px, 100px, 100px;
+}
+
+
+#image{
+    max-width: 100%;
+    height: auto;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: auto;
+    margin-bottom: 0px;
+    opacity: 0.9;
+}
+
+
+
+
+
 
